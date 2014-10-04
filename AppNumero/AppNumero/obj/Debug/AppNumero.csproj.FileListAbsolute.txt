@@ -1,5 +1,0 @@
-c:\users\lab104bpc18\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.exe.config
-c:\users\lab104bpc18\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.exe
-c:\users\lab104bpc18\documents\visual studio 2012\Projects\AppNumero\AppNumero\bin\Debug\AppNumero.pdb
-c:\users\lab104bpc18\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.exe
-c:\users\lab104bpc18\documents\visual studio 2012\Projects\AppNumero\AppNumero\obj\Debug\AppNumero.pdb
